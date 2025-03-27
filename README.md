@@ -146,29 +146,6 @@ I'm an experienced **AWS/GCP Data Engineer** with 6 years of expertise architect
 
 </div>
 
-## Experience
-
-### **CareSourse**  
-*AWS/GCP Data Engineer* (Oct 2023 - Present)  
-- Architected multi-cloud solutions for insurance claims processing and reinsurance reporting.  
-- Developed ETL workflows on AWS and GCP with tools like AWS Glue, PySpark, and Apache Airflow.  
-- Built CI/CD pipelines using GitHub, Jenkins, and Docker.  
-- **Technologies:** AWS (EC2, S3, Redshift, Glue, CloudWatch), GCP (BigQuery, Cloud Dataflow), Docker, Kubernetes
-
-### **Cognizant Technology Solutions**  
-*Programmer Analyst / Data Engineer* (Feb 2021 - Aug 2023)  
-- Migrated on-premises databases to cloud environments and developed real-time data ingestion pipelines.  
-- Automated infrastructure deployment with Terraform and CloudFormation.  
-- **Technologies:** AWS, GCP, Azure, PySpark, Hadoop, Informatica, Jenkins
-
-### **Optum**  
-*ETL & Data Pipeline Engineer* (May 2019 - Jan 2021)  
-- Designed and implemented data warehousing solutions and complex ETL workflows using Informatica and Snowflake.  
-- Optimized batch processing for reinsurance reporting.  
-- **Technologies:** PL/SQL, Informatica, Snowflake, Hadoop, SAP BusinessObjects, Autosys
-
----
-
 ## Education
 
 **Master of Science in Information Technology & Management**  
