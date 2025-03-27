@@ -146,6 +146,33 @@ I'm an experienced **AWS/GCP Data Engineer** with 6 years of expertise architect
 
 </div>
 
+
+## 🎓 Education & 🏆 Achievements
+
+<div style="display: flex; flex-wrap: wrap; gap: 20px; justify-content: center;">
+
+  <!-- Education Block -->
+  <div style="flex: 1 1 300px; max-width: 400px; background: #f5f5f5; border-radius: 8px; padding: 16px; box-shadow: 0 4px 6px rgba(0,0,0,0.1);">
+    <h3 style="color: #333;">Education</h3>
+    <p style="font-weight: bold;">Master of Science in Information Technology & Management</p>
+    <p>Bryan School of Business & Economics<br>
+       University of North Carolina Greensboro<br>
+       <em>2023 - 2024</em></p>
+    <p><strong>GPA:</strong> 4.0/4.0</p>
+  </div>
+
+  <!-- Achievements Block -->
+  <div style="flex: 1 1 300px; max-width: 400px; background: #f5f5f5; border-radius: 8px; padding: 16px; box-shadow: 0 4px 6px rgba(0,0,0,0.1);">
+    <h3 style="color: #333;">Achievements</h3>
+    <ul style="list-style: none; padding-left: 0;">
+      <li><strong>Publication:</strong> IoT-Based Environment Monitoring System To Protect Heritage Artefacts</li>
+      <li><strong>Membership:</strong> BETA GAMMA SIGMA Honor Society</li>
+      <li><strong>Awards:</strong> Bryan School Award & Faculty Choice Best Graduate Student Award</li>
+    </ul>
+  </div>
+
+</div>
+
 ## Education
 
 **Master of Science in Information Technology & Management**  
