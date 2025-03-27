@@ -151,15 +151,6 @@ I'm an experienced **AWS/GCP Data Engineer** with 6 years of expertise architect
 *Bryan School of Business & Economics, University of North Carolina Greensboro (2023-2024)*  
 GPA: 4.0/4.0
 
----
-
-## Achievements
-
-- **Publication:** *IoT-Based Environment Monitoring System To Protect Heritage Artefacts*  
-- **Membership:** BETA GAMMA SIGMA Honor Society  
-- **Awards:** Bryan School Award & Faculty Choice Best Graduate Student Award
-
----
 
 <!---
 SreekarGpalli/SreekarGpalli is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
