@@ -92,17 +92,59 @@ I'm an experienced **AWS/GCP Data Engineer** with 6 years of expertise architect
 </div>
 
 
-## Skills & Technologies
+## 🚀 Experience
 
-- **Cloud Platforms:** AWS (Glue, Lambda, EMR, Redshift, CloudWatch, etc.), GCP (BigQuery, Cloud Dataflow, Vertex AI, Cloud Storage), Azure  
-- **Data Engineering:** ETL, Data Warehousing, Apache Airflow, PySpark, Hadoop, Informatica PowerCenter  
-- **Programming:** Python (PySpark, Pandas, NumPy), SQL, Scala, Java, PL/SQL  
-- **Databases:** MySQL, MongoDB, Oracle, MS SQL Server, PostgreSQL, Snowflake  
-- **BI & Visualization:** Tableau, PowerBI, QuickSight, SAP BusinessObjects  
-- **DevOps & Containerization:** Git, Jenkins, Docker, Kubernetes, Terraform  
-- **Machine Learning:** Regression, Classification, Clustering, Time Series Analysis
+<div style="display: flex; flex-wrap: wrap; gap: 20px; justify-content: center;">
 
----
+  <!-- Tile 1: CareSourse -->
+  <div style="flex: 1 1 300px; max-width: 300px; background: #f5f5f5; border-radius: 8px; padding: 16px; box-shadow: 0 4px 6px rgba(0,0,0,0.1);">
+    <h3 style="color: #333;">CareSourse</h3>
+    <p style="font-weight: bold;">AWS/GCP Data Engineer</p>
+    <p><em>Oct 2023 - Present</em></p>
+    <details>
+      <summary style="cursor: pointer; color: #007ACC;">View Details</summary>
+      <ul>
+        <li>Architected multi-cloud solutions for insurance claims processing and reinsurance reporting.</li>
+        <li>Developed ETL workflows using AWS Glue, PySpark, and Apache Airflow.</li>
+        <li>Built CI/CD pipelines with GitHub, Jenkins, and Docker.</li>
+        <li><strong>Technologies:</strong> AWS (EC2, S3, Redshift, Glue, CloudWatch), GCP (BigQuery, Cloud Dataflow), Docker, Kubernetes</li>
+      </ul>
+    </details>
+  </div>
+
+  <!-- Tile 2: Cognizant Technology Solutions -->
+  <div style="flex: 1 1 300px; max-width: 300px; background: #f5f5f5; border-radius: 8px; padding: 16px; box-shadow: 0 4px 6px rgba(0,0,0,0.1);">
+    <h3 style="color: #333;">Cognizant Technology Solutions</h3>
+    <p style="font-weight: bold;">Programmer Analyst / Data Engineer</p>
+    <p><em>Feb 2021 - Aug 2023</em></p>
+    <details>
+      <summary style="cursor: pointer; color: #007ACC;">View Details</summary>
+      <ul>
+        <li>Migrated on-premises databases to cloud environments.</li>
+        <li>Developed real-time data ingestion pipelines with AWS and explored GCP and Azure integrations.</li>
+        <li>Automated infrastructure deployment using Terraform and CloudFormation.</li>
+        <li><strong>Technologies:</strong> AWS, GCP, Azure, PySpark, Hadoop, Informatica, Jenkins</li>
+      </ul>
+    </details>
+  </div>
+
+  <!-- Tile 3: Optum -->
+  <div style="flex: 1 1 300px; max-width: 300px; background: #f5f5f5; border-radius: 8px; padding: 16px; box-shadow: 0 4px 6px rgba(0,0,0,0.1);">
+    <h3 style="color: #333;">Optum</h3>
+    <p style="font-weight: bold;">ETL & Data Pipeline Engineer</p>
+    <p><em>May 2019 - Jan 2021</em></p>
+    <details>
+      <summary style="cursor: pointer; color: #007ACC;">View Details</summary>
+      <ul>
+        <li>Designed and implemented data warehousing and reporting solutions using Informatica and Snowflake.</li>
+        <li>Developed robust ETL workflows for reinsurance reporting.</li>
+        <li>Optimized batch processing using Hadoop and SAP BusinessObjects.</li>
+        <li><strong>Technologies:</strong> PL/SQL, Informatica, Snowflake, Hadoop, SAP BO, Autosys</li>
+      </ul>
+    </details>
+  </div>
+
+</div>
 
 ## Experience
 
