@@ -6,8 +6,7 @@
 
 I'm an experienced **AWS/GCP Data Engineer** with 6 years of expertise architecting and implementing robust data engineering and analytics solutions, primarily in the insurance and healthcare sectors. I specialize in multi-cloud architectures, scalable ETL pipelines, and data warehousing solutions.
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-SreekarG-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/sreekar-g)  
-[![Email](https://img.shields.io/badge/Email-sreekar.gpalli@gmail.com-c14438?style=for-the-badge&logo=gmail)](mailto:sreekar.gpalli@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-SreekarG-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/sreekar-g)   [![Email](https://img.shields.io/badge/Email-sreekar.gpalli@gmail.com-c14438?style=for-the-badge&logo=gmail)](mailto:sreekar.gpalli@gmail.com)
 
 ---
 
