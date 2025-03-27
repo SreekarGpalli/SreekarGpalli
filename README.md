@@ -63,16 +63,6 @@ GPA: 4.0/4.0
 
 ---
 
-## Interactive Data Engineering Pipeline
-
-```mermaid
-graph TD;
-    A[AWS Data Ingestion] --> B[AWS Glue];
-    B --> C[PySpark Processing];
-    C --> D[Data Warehousing (Redshift/Snowflake)];
-    D --> E[Visualization (Tableau/QuickSight)];
-
-
 <!---
 SreekarGpalli/SreekarGpalli is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
