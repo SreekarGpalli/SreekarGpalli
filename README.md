@@ -1,6 +1,6 @@
 # Hi there, I'm Sreekar G 👋
 
-![Profile Banner](./profile_banner.png)  
+![Profile Banner](./github-header-image.png)  
 *Add a banner image to make this more engaging!*
 
 ## About Me
